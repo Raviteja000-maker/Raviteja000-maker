@@ -4,7 +4,7 @@ Aspiring Data Engineer | Big Data Enthusiast | MLflow + PySpark + Azure
 
 ---
 
-### 📅 About Me
+### 🗕️ About Me
 
 - 🎓 Master's in Computer Science @ University of Alabama | GPA: 4.0
 - 💼 3+ years of experience in scalable data engineering, ETL pipelines, and ML automation.
@@ -14,19 +14,20 @@ Aspiring Data Engineer | Big Data Enthusiast | MLflow + PySpark + Azure
 
 ---
 
-### 💡 Featured Projects
+### 💼 Experience
 
-- **Ballot Tabulation using Deep Learning** 
-  🔹 Siamese Network-based tabulation system with 99.98% accuracy 
-  🔹 Techniques: Triplet Loss, GANs, Mask R-CNN, MLflow
+- **Graduate Research Assistant @ KDDM Lab (UAB)**  
+  🔹 Built Siamese-based DL models for ballot stuffing detection (**F1 Score: 0.925**)  
+  🔹 Developed ballot tabulation system with **99.984% accuracy** using Mask R-CNN & Triplet Loss  
+  🔹 Optimized large-scale PySpark pipelines and integrated MLflow + Optuna
 
-- **Retail ETL Dashboarding** @ HomeTown Corp
-  🔹 Built pipelines using Azure Data Factory + Databricks 
-  🔹 Enabled real-time dashboards with Power BI for inventory and revenue
+- **Data Engineer Intern @ HomeTown Corp**  
+  🔹 Developed Azure Data Factory + Databricks ETL pipelines  
+  🔹 Designed Power BI dashboards, improved inventory analytics, reduced waste by **20%**
 
-- **Wipro + National Grid UK**
-  🔹 Migrated data pipelines to AWS Glue + Airflow 
-  🔹 Optimized transformations, reduced processing lag by 50%
+- **Data Engineer @ Wipro (National Grid UK)**  
+  🔹 Migrated pipelines to AWS Glue & Airflow  
+  🔹 Automated Java-based monitoring & reduced processing lag by **50%**
 
 ---
 
